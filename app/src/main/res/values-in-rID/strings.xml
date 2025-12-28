@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GoSmartApps</string>
+    <string name="navigation_drawer_open">Buka menu navigasi</string>
+    <string name="navigation_drawer_close">Tutup menu navigasi</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Main navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_slideshow">Tayangan</string>
+    <string name="menu_developer">Pengembang</string>
+    <string name="username">Nama pengguna</string>
+    <string name="password">Kata sandi</string>
+    <string name="silahkan_login_untuk_memulai_aplikasi">Silahkan Login Untuk Memulai Aplikasi</string>
+    <string name="create_a_new_account">Membuat akun baru?</string>
+    <string name="sign_in">Masuk</string>
+</resources>

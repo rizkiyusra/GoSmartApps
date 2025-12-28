@@ -16,5 +16,4 @@
     <string name="silahkan_login_untuk_memulai_aplikasi">Please Login to start the application</string>
     <string name="create_a_new_account">Create A New Account?</string>
     <string name="sign_in">Sign In</string>
-    <string name="logout">logout</string>
 </resources>
